@@ -1,0 +1,14 @@
+קישור לסנדבוקס של מורנינג
+
+
+https://app.sandbox.d.greeninvoice.co.il/settings/developers/api
+
+
+
+
+הקישור לN8N
+האימייל PROG.TMICHA@GMAIL.COM
+
+סיסמא: N8NFORPROG
+
+https://n8n.srv1251456.hstgr.cloud/workflow/uk8boVnxXo588Twgo9gdE

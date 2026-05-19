@@ -1,0 +1,101 @@
+﻿using Dal.Api;
+using Dal.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+public interface ICrud<T>
+{
+    Task<bool> Create(T t);
+    Task<bool> Delete(T t);
+    Task<T> GetById(int id);
+    Task<List<T>> GetAll();
+    Task<bool> Update(T t);
+}
+
+public interface ICompanies : ICrud<CompaniesTbl>
+{
+    Task<CompaniesTbl> Get(int id);
+    Task<CompaniesTbl> GetById(int t);
+}
+
+public interface IBranches : ICrud<BranchesTbl>
+{
+    Task<BranchesTbl> Get(int id);
+}
+
+namespace Dal.Services
+{
+    public class CompaniesService : ICompanies
+    {
+        DbManager dbManager;
+        public CompaniesService(DbManager dbManager)
+        {
+            this.dbManager = dbManager;
+        }
+
+        public async Task<bool> Create(CompaniesTbl t)
+        {
+            if (t == null)
+                throw new ArgumentNullException("company");
+            // Id is int non-nullable in model; keep check for default value
+            if (t.Id == 0)
+                throw new Exception("id can't be 0");
+            try
+            {
+                await dbManager.Companies.AddAsync(t);
+                await dbManager.SaveChangesAsync();
+            }
+            catch
+            {
+                dbManager.Companies.Local.Remove(t);
+                return false;
+            }
+            return true;
+        }
+        public async Task<bool> Delete(CompaniesTbl t)
+        {
+            if (t == null)
+                throw new ArgumentNullException("company");
+            dbManager.Companies.Remove(t);
+            await dbManager.SaveChangesAsync();
+            return true;
+        }
+        public async Task<CompaniesTbl> Get(int id)
+        {
+            return await dbManager.Companies.Include(x => x.PostsTbls).FirstOrDefaultAsync(c => c.Id == id);
+        }
+        public async Task<List<CompaniesTbl>> GetAll()
+        {
+            var list = await dbManager.Companies.Include(x => x.PostsTbls).ToListAsync();
+            return list ?? new List<CompaniesTbl>();
+        }
+
+        public async Task<CompaniesTbl> GetById(int t)
+        {
+            return await dbManager.Companies.FindAsync(t);
+        }
+
+        public async Task<bool> Update(CompaniesTbl t)
+        {
+            var c = await dbManager.Companies.FirstOrDefaultAsync(c => c.Id == t.Id);
+            if (c == null)
+                return false;
+
+            var source = t.GetType().GetProperties();
+            var dest = c.GetType().GetProperties();
+            foreach (var item in source)
+            {
+                var destProperty = dest.FirstOrDefault(p => p.Name == item.Name && p.CanWrite);
+                if (destProperty != null)
+                {
+                    var val = item.GetValue(t);
+                    destProperty.SetValue(c, val);
+                }
+            }
+            await dbManager.SaveChangesAsync();
+            return true;
+        }
+    }
+}

@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Dal.Api
+{
+    public interface ICrud<T>
+    {
+        public bool Create(T t);
+        public bool Update(T t);
+        public bool Delete(T t);
+        public List<T> GetAll();
+        public T GetById(int t);
+        
+    }
+}

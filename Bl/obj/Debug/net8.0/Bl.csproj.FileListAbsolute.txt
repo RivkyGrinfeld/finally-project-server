@@ -1,0 +1,91 @@
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\bin\Debug\net8.0\Bl.deps.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\bin\Debug\net8.0\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\bin\Debug\net8.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\bin\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\bin\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\refint\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Bl\obj\Debug\net8.0\ref\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Bl.deps.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\refint\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\ref\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Bl.deps.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Bl.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\bin\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\refint\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\Bl.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Bl\obj\Debug\net8.0\ref\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\bin\Debug\net8.0\Bl.deps.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\bin\Debug\net8.0\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\bin\Debug\net8.0\Bl.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\bin\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\bin\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\refint\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\Bl.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Bl\obj\Debug\net8.0\ref\Bl.dll
+D:\c#\Project - Copy\Bl\bin\Debug\net8.0\Bl.deps.json
+D:\c#\Project - Copy\Bl\bin\Debug\net8.0\Bl.dll
+D:\c#\Project - Copy\Bl\bin\Debug\net8.0\Bl.pdb
+D:\c#\Project - Copy\Bl\bin\Debug\net8.0\Dal.dll
+D:\c#\Project - Copy\Bl\bin\Debug\net8.0\Dal.pdb
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.dll
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\refint\Bl.dll
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.pdb
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\ref\Bl.dll
+D:\c#\Project - Copy\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\ref\Bl.dll

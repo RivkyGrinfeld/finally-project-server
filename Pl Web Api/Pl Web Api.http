@@ -1,0 +1,6 @@
+@Pl_Web_Api_HostAddress = http://localhost:5168
+
+GET {{Pl_Web_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

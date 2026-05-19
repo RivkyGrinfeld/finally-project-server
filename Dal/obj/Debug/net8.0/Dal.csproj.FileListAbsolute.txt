@@ -1,0 +1,85 @@
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\bin\Debug\net8.0\Dal.deps.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\bin\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\bin\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\refint\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Dal\obj\Debug\net8.0\ref\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.deps.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\refint\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\ref\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.deps.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\bin\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\refint\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Dal\obj\Debug\net8.0\ref\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\bin\Debug\net8.0\Dal.deps.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\bin\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\bin\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\refint\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\c#\Project - Copy\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\c#\Project - Copy\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\c#\Project - Copy\Dal\bin\Debug\net8.0\Dal.dll
+D:\c#\Project - Copy\Dal\bin\Debug\net8.0\Dal.pdb
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.dll
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.pdb
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\c#\Project - Copy\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\ref\Dal.dll

@@ -1,0 +1,25 @@
+﻿# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Database files
+*.mdf
+*.ldf
+
+# Packages
+packages/
+!packages/repositories.config
+
+# Others
+*.Cache
+ClientBin/
+~$*
+*.tmp

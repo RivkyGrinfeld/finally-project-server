@@ -1,0 +1,74 @@
+﻿using Dal.Api;
+using Dal.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Dal.Services
+{
+    public class ManagersService : IManager
+    {
+        DbManager dbm;
+        public ManagersService(DbManager dbm)
+        {
+            this.dbm = dbm;
+        }
+
+        public bool Create(ManagersTbl t)
+        {
+            if (t == null)
+                throw new ArgumentNullException("manager");
+            if (t.Id == null)
+                throw new Exception("id can't be null");
+            dbm.Managers.Add(t);
+            dbm.SaveChanges();
+            return true;
+        }
+
+        public bool Delete(ManagersTbl t)
+        {
+            if (t == null)
+                throw new ArgumentNullException("manager");
+            dbm.Managers.Remove(t);
+            dbm.SaveChanges();
+            return true;
+        }
+
+        public ManagersTbl Get(int id)
+        {
+            return dbm.Managers.ToList().Where(c => c.Id.Equals(id)).FirstOrDefault();
+        }
+
+        public List<ManagersTbl> GetAll()
+        {
+            return dbm.Managers.ToList() ?? new List<ManagersTbl>();
+        }
+
+        public ManagersTbl GetById(int t)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool Update(ManagersTbl t)
+        {
+            ManagersTbl c = dbm.Managers.ToList().Where(c => c.Id.Equals(t.Id)).FirstOrDefault();
+            if (c == null)
+                return false;
+
+            var vv = t.GetType().GetProperties();
+            var cc = c.GetType().GetProperties();
+            foreach (var item in vv)
+            {
+                var destProperty = cc.FirstOrDefault(p => p.Name == item.Name && p.CanWrite);
+                if (destProperty != null)
+                {
+                    var val = item.GetValue(t);
+                    destProperty.SetValue(c, val);
+                }
+            }
+            return true;
+        }
+    }
+}
