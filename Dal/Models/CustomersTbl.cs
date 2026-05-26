@@ -11,15 +11,9 @@ public partial class CustomersTbl
 
     public string LastName { get; set; } = null!;
 
-    public DateTime BornDate { get; set; }
-
     public string City { get; set; } = null!;
 
-    public string? Address { get; set; }
-
     public string Email { get; set; } = null!;
-
-    public int? NumOfChildren { get; set; }
 
     public int BranchId { get; set; }
 
@@ -30,7 +24,7 @@ public partial class CustomersTbl
     public string? Url { get; set; }
 
     public int UserId { get; set; }
-   public DateTime CreatedAt { get; set; }
+   //public DateTime CreatedAt { get; set; }
 
     public virtual ICollection<ApplyTbl> ApplyTbls { get; set; } = new List<ApplyTbl>();
 

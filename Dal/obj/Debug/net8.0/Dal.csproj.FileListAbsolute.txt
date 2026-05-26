@@ -83,3 +83,33 @@ C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-m
 C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.pdb
 C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
 C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\c#\בעזרת השם\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\c#\בעזרת השם\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\c#\בעזרת השם\Dal\bin\Debug\net8.0\Dal.dll
+D:\c#\בעזרת השם\Dal\bin\Debug\net8.0\Dal.pdb
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.dll
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.pdb
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\c#\בעזרת השם\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\c#\BSD\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\c#\BSD\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\c#\BSD\Dal\bin\Debug\net8.0\Dal.dll
+D:\c#\BSD\Dal\bin\Debug\net8.0\Dal.pdb
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.dll
+D:\c#\BSD\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.pdb
+D:\c#\BSD\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\c#\BSD\Dal\obj\Debug\net8.0\ref\Dal.dll

@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pl_Web_Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
 
         

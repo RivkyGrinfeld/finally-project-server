@@ -33,7 +33,9 @@ namespace Dal.Services
                     // אפשר לשחרר את המעקב או להחליף את ה-instance לפי הצורך
                     dbm.Entry(trackedEntity).State = EntityState.Detached;
                 }
-
+                var exists = await dbm.CustomersTbls.AnyAsync(x => x.Id == t.Id);
+                if (exists)
+                    throw new Exception("Customer already exists");
                 dbm.CustomersTbls.Add(t);
                 await dbm.SaveChangesAsync();
                 return true;

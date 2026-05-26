@@ -25,7 +25,8 @@ namespace Bl.Models
 
         public DateTime Date { get; set; }
         public int MaxCadidated { get; set; }
-
+        public string JobTitle { get; set; } = string.Empty;
+        public string JobDescription { get; set; } = string.Empty;
 
         public bool IsConfirmed { get; set; } = false;
 

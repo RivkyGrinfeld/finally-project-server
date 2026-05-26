@@ -19,6 +19,7 @@ namespace Bl.Models
             c.Date = branch.Date;
             c.CustId = branch.CustId;
             c.PostId = branch.PostId;
+            c.AiMatched = branch.AiMatched;
             return c;
         }
         public static ApplyTbl ConvertFromBlApplyToApply(BlApply branch)
@@ -29,6 +30,7 @@ namespace Bl.Models
             c.Date = branch.Date;
             c.CustId = branch.CustId;
             c.PostId = branch.PostId;
+            c.AiMatched = branch.AiMatched;
             return c;
         }
         public static BlBranches ConvertFromBranchToBlBranch(BranchesTbl branch)
@@ -71,15 +73,12 @@ namespace Bl.Models
         {
             CustomersTbl c = new();
             c.Id = customer.Id.Trim().Substring(0, Math.Min(9, customer.Id.Length));
-            c.CreatedAt = customer.CreatedAt;
+            //c.CreatedAt = customer.CreatedAt;
             //c.Id = customer.Id.Trim();
-            c.Address = customer.Address;
             c.City = customer.City;
             c.Email = customer.Email;//////////////////////
-            c.BornDate = customer.BornDate;
             c.FirstName = customer.FirstName;
             c.LastName = customer.LastName;
-            c.NumOfChildren = customer.NumOfChildren;
             c.Phone = customer.Phone;
             c.BranchId = customer.BranchId;
             c.FileName = customer.FileName;
@@ -92,15 +91,12 @@ namespace Bl.Models
         {
             BlCustomer c = new();
             c.Id = customer.Id;
-            c.CreatedAt = customer.CreatedAt;
+            //c.CreatedAt = customer.CreatedAt;
 
-            c.Address = customer.Address;
             c.City = customer.City;
             c.Email = customer.Email;//////////////////////
-            c.BornDate = customer.BornDate;
             c.FirstName = customer.FirstName;
             c.LastName = customer.LastName;
-            c.NumOfChildren = customer.NumOfChildren;
             c.Phone = customer.Phone;
             c.BranchId = customer.BranchId;
             c.FileName = customer.FileName;
@@ -159,6 +155,11 @@ namespace Bl.Models
             c.CompanyId = customer.CompanyId;
             c.MaxCadidated = customer.MaxCadidated;
             c.PositionId = customer.PositionId;
+
+            // NEW: העתקת כותרת ותיאור
+            c.JobTitle = customer.JobTitle;
+            c.JobDescription = customer.JobDescription;
+
             customer.Requests.ForEach(x => c.RequestsTbls.Add(ConvertFromBlRequestToRequest(x)));
 
             return c;
@@ -176,6 +177,8 @@ namespace Bl.Models
             c.MaxCadidated = post.MaxCadidated;
             c.PositionId = post.PositionId;
 
+            c.JobTitle = post.JobTitle;
+            c.JobDescription = post.JobDescription;
 
             if (post.RequestsTbls != null && post.RequestsTbls.Any())
             {
@@ -217,6 +220,7 @@ namespace Bl.Models
         {
             BlRequest r = new();
             r.Id = request.Id;
+            r.PropertyId = request.PropertyId;
             r.PostId = request.PostId;
             r.MinGradeProperty = request.MinGradeProperty;
             //r.Post = request.Post;//////////////

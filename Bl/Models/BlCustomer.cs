@@ -17,15 +17,9 @@ namespace Bl.Models
 
         public string LastName { get; set; } = null!;
 
-        public DateTime BornDate { get; set; }
-
         public string City { get; set; } = null!;
 
-        public string? Address { get; set; }
-
         public string Email { get; set; } = null!;
-
-        public int? NumOfChildren { get; set; }
 
         public int BranchId { get; set; }
 
@@ -34,7 +28,7 @@ namespace Bl.Models
         public string? FileName { get; set; }
 
         public string? Url { get; set; }
-        public DateTime CreatedAt { get; set; }
+        //public DateTime CreatedAt { get; set; }
 
 
         public int UserId { get; set; }

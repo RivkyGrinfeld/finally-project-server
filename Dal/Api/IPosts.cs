@@ -11,6 +11,6 @@ namespace Dal.Api
     {
         public Task<PostsTbl> Get(int id);
 
-        public void ConfirmPost(int id);
+        public Task ConfirmPost(int id);
     }
 }

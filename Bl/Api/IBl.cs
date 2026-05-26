@@ -20,5 +20,6 @@ namespace Bl.Api
         IBlQuestions Questions { get; }
         IBlUser Users { get; }
         IBlUserVertificationToken UserVertificationTokens { get; }
+        IBLOpenAiservice bLOpenAiservice { get; }
     }
 }

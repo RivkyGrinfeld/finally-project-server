@@ -711,22 +711,11 @@
                   "LastName": {
                     "type": "string"
                   },
-                  "BornDate": {
-                    "type": "string",
-                    "format": "date-time"
-                  },
                   "City": {
-                    "type": "string"
-                  },
-                  "Address": {
                     "type": "string"
                   },
                   "Email": {
                     "type": "string"
-                  },
-                  "NumOfChildren": {
-                    "type": "integer",
-                    "format": "int32"
                   },
                   "BranchId": {
                     "type": "integer",
@@ -740,10 +729,6 @@
                   },
                   "Url": {
                     "type": "string"
-                  },
-                  "CreatedAt": {
-                    "type": "string",
-                    "format": "date-time"
                   },
                   "UserId": {
                     "type": "integer",
@@ -783,19 +768,10 @@
                 "LastName": {
                   "style": "form"
                 },
-                "BornDate": {
-                  "style": "form"
-                },
                 "City": {
                   "style": "form"
                 },
-                "Address": {
-                  "style": "form"
-                },
                 "Email": {
-                  "style": "form"
-                },
-                "NumOfChildren": {
                   "style": "form"
                 },
                 "BranchId": {
@@ -808,9 +784,6 @@
                   "style": "form"
                 },
                 "Url": {
-                  "style": "form"
-                },
-                "CreatedAt": {
                   "style": "form"
                 },
                 "UserId": {
@@ -893,6 +866,69 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/CvDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/cv/analyze-match": {
+      "post": {
+        "tags": [
+          "Cv"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CvMatchRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CvMatchRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CvMatchRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Handwriting/analyze": {
+      "post": {
+        "tags": [
+          "Handwriting"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "file": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -1004,6 +1040,27 @@
                 }
               }
             }
+          }
+        }
+      }
+    },
+    "/api/PointTest/GetByCustId": {
+      "get": {
+        "tags": [
+          "PointTest"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -1596,7 +1653,7 @@
         }
       }
     },
-    "/api/Request": {
+    "/api/Request/AddRequest": {
       "post": {
         "tags": [
           "Request"
@@ -1642,7 +1699,9 @@
             }
           }
         }
-      },
+      }
+    },
+    "/api/Request/GetAll": {
       "get": {
         "tags": [
           "Request"
@@ -1680,7 +1739,7 @@
         }
       }
     },
-    "/api/Request/{id}": {
+    "/api/Request/GetById/{id}": {
       "get": {
         "tags": [
           "Request"
@@ -2272,6 +2331,10 @@
             "type": "integer",
             "format": "int32"
           },
+          "aiMatched": {
+            "type": "integer",
+            "format": "int32"
+          },
           "confirmed": {
             "type": "boolean"
           },
@@ -2348,25 +2411,12 @@
             "type": "string",
             "nullable": true
           },
-          "bornDate": {
-            "type": "string",
-            "format": "date-time"
-          },
           "city": {
-            "type": "string",
-            "nullable": true
-          },
-          "address": {
             "type": "string",
             "nullable": true
           },
           "email": {
             "type": "string",
-            "nullable": true
-          },
-          "numOfChildren": {
-            "type": "integer",
-            "format": "int32",
             "nullable": true
           },
           "branchId": {
@@ -2384,10 +2434,6 @@
           "url": {
             "type": "string",
             "nullable": true
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
           },
           "userId": {
             "type": "integer",
@@ -2532,6 +2578,14 @@
           "maxCadidated": {
             "type": "integer",
             "format": "int32"
+          },
+          "jobTitle": {
+            "type": "string",
+            "nullable": true
+          },
+          "jobDescription": {
+            "type": "string",
+            "nullable": true
           },
           "isConfirmed": {
             "type": "boolean"
@@ -2739,6 +2793,27 @@
           },
           "ans": {
             "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CvMatchRequest": {
+        "type": "object",
+        "properties": {
+          "fileName": {
+            "type": "string",
+            "nullable": true
+          },
+          "candidateInfo": {
+            "type": "string",
+            "nullable": true
+          },
+          "requirements": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
             "nullable": true
           }
         },

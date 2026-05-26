@@ -126,7 +126,10 @@ namespace Dal.Services
         // שליפת כל המשרות
         public async Task<List<PostsTbl>> GetAll()
         {
-            return await _dbManager.PostsTbls.ToListAsync();
+            return await _dbManager.PostsTbls
+                .Include(p => p.RequestsTbls)
+                .ToListAsync();
+            //return await _dbManager.PostsTbls.ToListAsync();
         }
         public async Task<PostsTbl> GetById(int t)
         {
@@ -158,6 +161,10 @@ namespace Dal.Services
             existingPost.Salary = post.Salary;
             existingPost.CompanyId = post.CompanyId;
             existingPost.PositionId = post.PositionId;
+            existingPost.Position = post.Position;
+            existingPost.IsAvailble = post.IsAvailble;
+            existingPost.JobDescription = post.JobDescription;
+            existingPost.MaxCadidated = post.MaxCadidated;
 
             _dbManager.PostsTbls.Update(existingPost);
             await _dbManager.SaveChangesAsync();
@@ -174,10 +181,19 @@ namespace Dal.Services
             await _dbManager.SaveChangesAsync();
             return true;
         }
-        public void ConfirmPost(int id)
+        //public void ConfirmPost(int id)
+        //{
+        //    _dbManager.PostsTbls.ToList().FindAll(v => v.Id == id).FirstOrDefault().IsConfirmed = true;
+        //    _dbManager.SaveChangesAsync();
+        //}
+        public async Task ConfirmPost(int id)
         {
-            _dbManager.PostsTbls.ToList().FindAll(v => v.Id == id).FirstOrDefault().IsConfirmed = true;
-            _dbManager.SaveChangesAsync();
+            var post = await _dbManager.PostsTbls.FirstOrDefaultAsync(v => v.Id == id);
+            if (post != null)
+            {
+                post.IsConfirmed = true;
+                await _dbManager.SaveChangesAsync();
+            }
         }
     }
 }

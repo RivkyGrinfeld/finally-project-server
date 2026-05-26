@@ -37,7 +37,7 @@ namespace Bl.Services
         {
             List<BlRequest> blList = new List<BlRequest>();
 
-            dal.Requests.GetAll().Result.ForEach(c => blList.Add(Converts.ConvertFromRequestToBlRequest(c)));
+            dal.Requests.GetAll().Result.ForEach(async c => blList.Add(Converts.ConvertFromRequestToBlRequest(c)));
             return blList;
         }
         public async Task<BlRequest> GetById(int t)

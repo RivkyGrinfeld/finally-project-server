@@ -173,19 +173,11 @@ namespace Pl_Web_Api.Controllers
         public async Task<bool> AddTest([FromBody] CompareTo[] value, [FromQuery] string id)
         {
 
-
-
-
             var client = new HttpClient();
 
             client.BaseAddress = new Uri("https://safeai613.com/v1/");
             client.DefaultRequestHeaders.Authorization =
                 new AuthenticationHeaderValue("Bearer", "sk-safeai-17d8a0af5e5a359d982311ad9c4e622806cc2765c40ebbb2");
-
-
-
-
-
 
             List<BlAnswers> Answers = await _bl.Answers.GetAll();
             List<BlQuestions> Questions = await _bl.Questions.GetAll();

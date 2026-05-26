@@ -89,3 +89,35 @@ C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-m
 C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\refint\Bl.dll
 C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\Bl.pdb
 C:\Users\michalgr\Desktop\קבצים זמניים\Rivky\finally-project-server-main\finally-project-server-main\Bl\obj\Debug\net8.0\ref\Bl.dll
+D:\c#\בעזרת השם\Bl\bin\Debug\net8.0\Bl.deps.json
+D:\c#\בעזרת השם\Bl\bin\Debug\net8.0\Bl.dll
+D:\c#\בעזרת השם\Bl\bin\Debug\net8.0\Bl.pdb
+D:\c#\בעזרת השם\Bl\bin\Debug\net8.0\Dal.dll
+D:\c#\בעזרת השם\Bl\bin\Debug\net8.0\Dal.pdb
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.dll
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\refint\Bl.dll
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\Bl.pdb
+D:\c#\בעזרת השם\Bl\obj\Debug\net8.0\ref\Bl.dll
+D:\c#\BSD\Bl\bin\Debug\net8.0\Bl.deps.json
+D:\c#\BSD\Bl\bin\Debug\net8.0\Bl.dll
+D:\c#\BSD\Bl\bin\Debug\net8.0\Bl.pdb
+D:\c#\BSD\Bl\bin\Debug\net8.0\Dal.dll
+D:\c#\BSD\Bl\bin\Debug\net8.0\Dal.pdb
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.dll
+D:\c#\BSD\Bl\obj\Debug\net8.0\refint\Bl.dll
+D:\c#\BSD\Bl\obj\Debug\net8.0\Bl.pdb
+D:\c#\BSD\Bl\obj\Debug\net8.0\ref\Bl.dll

@@ -47,7 +47,7 @@ namespace Dal.Services
         }
         public async Task<List<RequestsTbl>> GetAll()
         {
-            return  dbm.RequestsTbls.Include(x => x.Property).ToList() ?? new List<RequestsTbl>();
+            return  await dbm.RequestsTbls.Include(x => x.Property).ToListAsync() ?? new List<RequestsTbl>();
         }
         public async Task<RequestsTbl> GetById(int t)
         {

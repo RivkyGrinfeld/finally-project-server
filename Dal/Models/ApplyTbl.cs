@@ -12,6 +12,7 @@ public partial class ApplyTbl
     public int PostId { get; set; }
 
     public bool Confirmed { get; set; }
+    public int AiMatched { get; set; }
 
     public DateTime Date { get; set; }
 

@@ -23,6 +23,9 @@ public partial class PostsTbl
 
     public int MaxCadidated { get; set; }
 
+    public string JobTitle { get; set; } = string.Empty;
+    public string JobDescription { get; set; } = string.Empty;
+
     public virtual ICollection<ApplyTbl> ApplyTbls { get; set; } = new List<ApplyTbl>();
 
     public virtual CompaniesTbl Company { get; set; } = null!;

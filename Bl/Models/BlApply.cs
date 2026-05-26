@@ -14,6 +14,7 @@ namespace Bl.Models
         public string CustId { get; set; } = null!;
 
         public int PostId { get; set; }
+        public int AiMatched { get; set; }
 
         public bool Confirmed { get; set; }
         public DateTime Date { get; set; }

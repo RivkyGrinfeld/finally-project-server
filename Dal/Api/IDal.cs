@@ -23,6 +23,7 @@ namespace Dal.Api
         public IQuestions Questions { get; }
         public IAnswars Answers { get; }
         public IUsers Users { get; }
+       
         public IUserVertificationToken UserVertificationTokens { get; }
     }
 }

@@ -48,7 +48,7 @@ namespace Dal.Services
         }
         public async Task<List<PointsTestTbl>> GetAll()
         {
-            return dbm.PointsTestTbls.ToList() ?? new List<PointsTestTbl>();
+            return await dbm.PointsTestTbls.ToListAsync() ?? new List<PointsTestTbl>();
         }
         public async Task<PointsTestTbl> GetById(int t)
         {

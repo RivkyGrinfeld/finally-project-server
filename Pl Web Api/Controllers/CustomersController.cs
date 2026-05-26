@@ -54,6 +54,7 @@ namespace Pl_Web_Api.Controllers
                 customer.Url = filePath;
             }
             BlUser newus = await bl.Users.Create(new BlUser() { Password = customer.Password, UserName = customer.UserName, StatusId = 3 });
+            //newus = bl.Users.GetAll().Result.Find(x => x.UserName == newus.UserName && x.Password == newus.Password && x.StatusId == newus.StatusId);
             // יצירת הלקוח דרך BL
             customer.UserId = newus.Id;
             var result = await bl.Customers.Create(customer);

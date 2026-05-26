@@ -17,7 +17,7 @@ namespace Pl_Web_Api.Controllers
             this.bl = bl;
         }
         [HttpPost]
-        public async Task<bool> AddTest([FromBody]BlTest  value)
+        public async Task<bool> AddTest([FromBody] BlTest  value)
         { 
             return await bl.Test.Create(value);
         }

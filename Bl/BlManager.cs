@@ -27,11 +27,13 @@ namespace Bl
         public IBlAnswers Answers { get; }
         public IBlQuestions Questions { get; }
         public IBlUser Users { get; }
+        public IBLOpenAiservice bLOpenAiservice { get; }
         public IBlUserVertificationToken UserVertificationTokens { get; }
         public BlManager()
         {
 
             ServiceCollection services = new ServiceCollection();
+            //services.AddSingleton<IBLOpenAiservice, OpenAiService>();
             services.AddSingleton<IDal, DalManager>();
             services.AddSingleton<IBlCustomer, BlCustomerService>();
             services.AddSingleton<IBlManager, BlManagerService>();
@@ -53,6 +55,7 @@ namespace Bl
             //services.AddAutoMapper(typeof(Program).Assembly); // Scans the current assembly
 
             ServiceProvider servicesProvider = services.BuildServiceProvider();
+                //bLOpenAiservice = servicesProvider.GetRequiredService<IBLOpenAiservice>();
             Customers = servicesProvider.GetRequiredService<IBlCustomer>();
             Managers = servicesProvider.GetRequiredService<IBlManager>();
             Posts = servicesProvider.GetRequiredService<IBlPosts>();
